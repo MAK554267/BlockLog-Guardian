@@ -1,6 +1,6 @@
 # 🔗 BlockLog Guardian
 
-**🎓 Developed for Network Security & Blockchain Integration — 6th Semester Project**
+**🎓 Developed for Digital Forensic & Blockchain Integration — 6th Semester Project**
 
 *Decentralized tamper-proof authentication and security logging system using Blockchain (Geth) and IPFS*
 
