@@ -360,12 +360,6 @@ taskkill /PID <process_id> /F
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 🙏 Acknowledgments
 
 - **Ma'am Muniba Khan** — Project Supervisor
