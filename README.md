@@ -6,7 +6,7 @@
 
 [![University](https://img.shields.io/badge/Institution-University_of_Wah-blue.svg)](#)
 [![Department](https://img.shields.io/badge/Department-Cybersecurity-purple.svg)](#)
-[![Course](https://img.shields.io/badge/Course-Network_Security-teal.svg)](#)
+[![Course](https://img.shields.io/badge/Course-Blockchain_Technology-teal.svg)](#)
 [![Semester](https://img.shields.io/badge/Semester-6th-green.svg)](#)
 [![Project](https://img.shields.io/badge/Type-Blockchain_Project-orange.svg)](#)
 
@@ -375,7 +375,7 @@ MIT License
 
 [![University](https://img.shields.io/badge/Institution-University_of_Wah-blue.svg)](#)
 [![Department](https://img.shields.io/badge/Department-Cybersecurity-purple.svg)](#)
-[![Course](https://img.shields.io/badge/Course-BlockChain Technology-teal.svg)](#)
+[![Course](https://img.shields.io/badge/Course-Blockchain_Technology-teal.svg)](#)
 [![Semester](https://img.shields.io/badge/Semester-6th-green.svg)](#)
 [![Project](https://img.shields.io/badge/Type-Blockchain_Project-orange.svg)](#)
 
